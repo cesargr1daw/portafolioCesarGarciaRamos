@@ -1,0 +1,16 @@
+.hero {
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+.hero img {
+    border: 5px solid #fff; /* Borde blanco alrededor de la imagen */
+}
+.contacto a {
+    color: #007bff;
+    text-decoration: none;
+}
+.contacto a:hover {
+    text-decoration: underline;
+}
